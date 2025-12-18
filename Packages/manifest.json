@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.maligan.unity-zed": "https://github.com/maligan/unity-zed.git",
     "com.nobi.roundedcorners": "https://github.com/kirevdokimov/Unity-UI-Rounded-Corners.git",
     "com.unity.collab-proxy": "2.10.2",
     "com.unity.feature.mobile": "1.0.0",
